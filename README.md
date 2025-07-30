@@ -28,8 +28,10 @@ The Star Classification Project processes the Gaia dataset to categorize stars i
 - $$h_4 = \text{ReLU}\left(W_4 h_3 + b_4\right)$$
 
 - $y = W_5 h_4 + b_5$
-- 
+  
 #  Clone the repo
+
 ```
 git clone https://github.com/say217/GAIA-Classifier-ANN-model.git
 cd GAIA-Classifier-ANN-model
+```
